@@ -5,7 +5,7 @@ WGo.lang = "vi"; // set language code
 
 WGo.i18n[WGo.lang] = {
 	"about-text": "<h1>WGo.js Player 2.0</h1>"
-				+ "<p>WGo.js Player là phần mở rộng của WGo.js, thư việc HTML5 với sử dụng cho Cờ Vây. Nó cho phép xem lại bản ghi cờ vây và nó có rất nhiều tính năng như là tính điểm. Nó được thiết kế để dễ dàng mở rộng.</p>"
+				+ "<p>WGo.js Player là phần mở rộng của WGo.js, một thư viện HTML5 sử dụng cho Cờ Vây. WGo.js Player cho phép xem lại bản ghi cờ vây và có rất nhiều tính năng ví dụ như tính điểm. WGo.js Player được thiết kế để dễ dàng mở rộng.</p>"
 				+ "<p>WGo.js được sử dụng theo giấy phép mã nguồn mở <a href='http://en.wikipedia.org/wiki/MIT_License' target='_blank'>Giấy phép MIT</a>. Bạn có thể sử dụng và chỉnh sửa bất kỳ phần nào của dự án.</p>"
 				+ "<p>Bạn có thể tìm hiểu thêm tại <a href='http://wgo.waltheri.net/player' target='_blank'>wgo.waltheri.net/player</a></p>"
 				+ "<p>Bản quyền &copy; 2013 Jan Prokop</p>",
@@ -17,7 +17,7 @@ WGo.i18n[WGo.lang] = {
 	"AN": "Chú thích",
 	"CP": "Bản quyền",
 	"GC": "Bình luận",
-	"GN": "Tên trò chơi",
+	"GN": "Tên trận đấu",
 	"ON": "Fuseki",
 	"OT": "Ngoài giờ",
 	"TM": "Thời gian cơ bản",
@@ -39,7 +39,7 @@ WGo.i18n[WGo.lang] = {
 	"res-show-tip": "Bấm để hiện kết quả.",
 	"BP:closemsg": "bấm bất kỳ nơi nào để đóng cửa sổ này",
 	"rank": "Xếp hạng",
-	"caps": "Caps",
+	"caps": "Tù binh",
 	"time": "Thời gian",
 	"about": "Giới thiệu",
 	"first": "Đầu",
@@ -58,5 +58,5 @@ WGo.i18n[WGo.lang] = {
 	"score": "Điểm",
 	"bwin": "Đen thắng với $ điểm.",
 	"wwin": "Trắng thắng với $ điểm.",
-	"help_score": "Bấm vào nhóm quân để thay đổi sống hoặc chết. Bạn có thể cài đặt hoặc bỏ vùng điểm bằng cách bấm vào nó. Vùng phải được bao kín hoàn toàn.",
+	"help_score": "Bấm vào nhóm quân để đánh dấu sống hay chết. Bạn có thể đánh dấu hoặc bỏ đánh dấu các điểm mục bằng cách bấm vào nó. Vùng lãnh thổ phải được bao kín hoàn toàn.",
 }
